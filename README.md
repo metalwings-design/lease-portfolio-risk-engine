@@ -1,6 +1,6 @@
-# LeaseIntel: Equipment Lease Portfolio Intelligence & Quantitative Risk
+# Lease_Intel: Equipment Lease Portfolio Intelligence & Quantitative Risk
 
-LeaseIntel is an end-to-end quantitative financial engineering pipeline built to analyze, value, and stress-test commercial equipment lease portfolios. Orchestrated using Dagster and a 3-tier Medallion architecture (Bronze, Silver, Gold), it integrates contract-level tapes with Reserve Bank of India (RBI) macroeconomic series. The system provides institutional-grade accounting valuation, credit risk monitoring, and macro interest rate sensitivity modeling across multi-billion-rupee lease books.
+Lease_Intel is an end-to-end quantitative financial engineering pipeline built to analyze, value, and stress-test commercial equipment lease portfolios. Orchestrated using Dagster and a 3-tier Medallion architecture (Bronze, Silver, Gold), it integrates contract-level tapes with Reserve Bank of India (RBI) macroeconomic series. The system provides institutional-grade accounting valuation, credit risk monitoring, and macro interest rate sensitivity modeling across multi-billion-rupee lease books.
 
 ---
 
