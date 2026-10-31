@@ -1,0 +1,16 @@
+# Dagster local dev artifacts
+.tmp_dagster_home_*
+
+# Python virtual environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Confidential & private files
+private_files/
+private files/
+
+# Temporary generated reports
+report.docx
+portfolio_intelligence_report*.docx

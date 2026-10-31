@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "lease_intel"
+version = "0.1.0"
+dependencies = [
+    "dagster",
+    "dagster-webserver",
+    "pandas",
+    "openpyxl"
+]
+
+[tool.dagster]
+module_name = "lease_intel.definitions"
+working_directory = "src"
